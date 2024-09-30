@@ -1,7 +1,7 @@
 # TENET : a Jahia CMS NPM implementation over 8.2.0 #
 
 
-This a demo for new Jahia Javascript Modules.
+This is a demo for new Jahia Javascript Modules.
 
 Below is a list of showcases of the use of external Js library for effect (instead of the usual Jahia JSP usecase)
  
